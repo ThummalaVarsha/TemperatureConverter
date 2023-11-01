@@ -4,17 +4,12 @@ body {
     background-color: #FFF2D8;
     
 }
-.wholeScreen{
-    height: 100vh;
-    width: 100vw;
-}
 
 .container{
     background-color: #EAD7BB;
     margin: 20px auto;
     padding: 20px;
-    max-width: 40vw;
-    height:90vh;
+    max-width: 400px;
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
 }
@@ -53,8 +48,8 @@ button:hover {
     background-color:plum;
 }
 .image{
-    height: 20vh;
-    width: 20vh;
+    height: 300px;
+    width: 300px;
     
 }
 
